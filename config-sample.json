@@ -1,0 +1,11 @@
+{
+    "IP" : "",
+    "USERNAME" : "",
+    "PASSWORD" : ",
+    "LDAP_BASE" : "",
+    "OU" : "",
+    "GROUPID" : ,
+    "SHADOWMIN" : ,
+    "SHADOWWARNING" : ,
+    "LOGINSHELL" : "/bin/bash"
+}

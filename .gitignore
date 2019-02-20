@@ -1,0 +1,7 @@
+*.pyc
+1/
+venv/
+.venv
+.env
+ldap/*
+config.json
